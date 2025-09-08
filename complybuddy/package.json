@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://captinbrook-stack.github.io/complybuddy-app",
+  "homepage": "https://captinbrook-stack.github.io/com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
